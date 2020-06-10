@@ -43,3 +43,6 @@
 
 # https://store.steampowered.com/app/394360
 { "name": "hoi4", "type": "Game"}
+
+# https://store.steampowered.com/app/225840/
+{ "name": "svencoop_linux", "type": "Game"}
